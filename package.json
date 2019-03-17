@@ -1,0 +1,15 @@
+{
+  "name": "zeppelinos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daisuke Asaoka",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.0.4",
+    "zos": "^2.2.2"
+  }
+}
